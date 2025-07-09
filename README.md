@@ -38,9 +38,6 @@ _Built for smoother service and less “can you repeat that?” moments._
 **Platforms & APIs:** OpenAI API, Hugging Face, WhatsApp Cloud API  
 **Databases:** MongoDB, PostgreSQL, SQLite  
 **DevOps & Tools:** Docker, Git, GitHub, AWS, Google Cloud  
-
-I live somewhere between `def inference()` and `<div id="root">`.
-
 ---
 
 ## 🌐 Connect with Me
