@@ -27,9 +27,6 @@ _Where computer vision meets accessibility — hands speak, code listens._
 An Arabic voice-to-order system that understands what you say and formats it for kitchen or app delivery.  
 _Built for smoother service and less “can you repeat that?” moments._
 
-**Data from Images (Vision Pipeline)**  
-Automated extraction of structured data from messy images using OpenAI Vision models.  
-_Fast. Clean. Reliable. Perfect for clients who hate spreadsheets._
 
 
 
@@ -43,14 +40,6 @@ _Fast. Clean. Reliable. Perfect for clients who hate spreadsheets._
 **DevOps & Tools:** Docker, Git, GitHub, AWS, Google Cloud  
 
 I live somewhere between `def inference()` and `<div id="root">`.
-
----
-
-## 🧠 How I Think
-
-> "AI should be useful, not just impressive."
-
-I'm not here to build things that end up in a drawer. I'm here to make things that get used, help people, and spark curiosity. If it’s practical, creative, or a little chaotic, I’m in.
 
 ---
 
