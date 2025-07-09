@@ -26,6 +26,8 @@ _Where computer vision meets accessibility — hands speak, code listens._
  **AI Food Order Assistant**  
 An Arabic voice-to-order system that understands what you say and formats it for kitchen or app delivery.  
 _Built for smoother service and less “can you repeat that?” moments._
+
+
 ---
 ## 🛠 Tech Stack
 
