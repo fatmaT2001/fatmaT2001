@@ -15,23 +15,18 @@ I'm someone who likes to turn “what if” ideas into *working code*. Whether i
 ---
 ## 🔨 Some Things I’ve Built
 
-🧞‍♀️ **Genie (AI Study Assistant)**  
+ **Genie (AI Study Assistant)**  
 A smart, chat-based tool that turns textbooks, PDFs, and videos into summaries, quizzes, and mind maps.  
 _It’s like studying with a supercharged second brain._
 
-🧠 **Arabic Sign Language Translator**  
+ **Arabic Sign Language Translator**  
 Built a real-time translator using CNN + ResNet with 98% accuracy.  
 _Where computer vision meets accessibility — hands speak, code listens._
 
-🍽️ **AI Food Order Assistant**  
+ **AI Food Order Assistant**  
 An Arabic voice-to-order system that understands what you say and formats it for kitchen or app delivery.  
 _Built for smoother service and less “can you repeat that?” moments._
-
-📸 **Data from Images (Vision Pipeline)**  
-Automated extraction of structured data from messy images using OpenAI Vision models.  
-_Fast. Clean. Reliable. Perfect for clients who hate spreadsheets._
 ---
-
 ## 🛠 Tech Stack
 
 **Languages:** Python, C++, JavaScript  
