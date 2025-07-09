@@ -27,7 +27,7 @@ _Where computer vision meets accessibility — hands speak, code listens._
 An Arabic voice-to-order system that understands what you say and formats it for kitchen or app delivery.  
 _Built for smoother service and less “can you repeat that?” moments._
 
-📸 **Data from Images (Vision Pipeline)**  
+**Data from Images (Vision Pipeline)**  
 Automated extraction of structured data from messy images using OpenAI Vision models.  
 _Fast. Clean. Reliable. Perfect for clients who hate spreadsheets._
 
