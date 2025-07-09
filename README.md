@@ -45,7 +45,7 @@ I live somewhere between `def inference()` and `<div id="root">`.
 
 > "AI should be useful, not just impressive."
 
-I'm not here to build things that end up in a drawer. I'm here to make things that get used, help people, and spark curiosity. If it’s practical, creative, or a little chaotic — I’m in.
+I'm not here to build things that end up in a drawer. I'm here to make things that get used, help people, and spark curiosity. If it’s practical, creative, or a little chaotic, I’m in.
 
 ---
 
