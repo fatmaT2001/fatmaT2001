@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Fatma!
+#  Hey there, I’m Fatma!
 
 ###  AI Engineer |  Builder |  Creative Thinker
 
@@ -6,14 +6,14 @@ I'm someone who likes to turn “what if” ideas into *working code*. Whether i
 
 ---
 
-## 🌱 Currently...
+##  Currently...
 
 -  Building AI products that talk, think, and solve real problems
 -  Obsessed with NLP, LLMs & multimodal models
 -  Always learning — quantum stuff, fast APIs, weird edge cases
 
 ---
-## 🔨 Some Things I’ve Built
+##  Some Things I’ve Built
 
  **Genie (AI Study Assistant)**  
 A smart, chat-based tool that turns textbooks, PDFs, and videos into summaries, quizzes, and mind maps.  
@@ -31,7 +31,7 @@ _Built for smoother service and less “can you repeat that?” moments._
 
 
 ---
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Languages:** Python, C++, JavaScript  
 **Frameworks & Libraries:** PyTorch, TensorFlow, FastAPI, LangChain, LangGraph, React  
@@ -42,7 +42,7 @@ _Built for smoother service and less “can you repeat that?” moments._
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fatma--taha-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fatma-taha-437421242/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-fatmah--t-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/ftaham)  
