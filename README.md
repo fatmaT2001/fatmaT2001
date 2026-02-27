@@ -42,9 +42,10 @@ _Built for smoother service and less “can you repeat that?” moments._
 
 ---
 
+
 ##  Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fatma--taha-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fatma-taha-437421242/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fatma--taha-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fatmat2001/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-fatmah--t-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/ftaham)  
 [![Upwork](https://img.shields.io/badge/Upwork-fatma--taha-darkgreen?style=flat-square&logo=upwork)](https://www.upwork.com/freelancers/~01456bcd55dc6d3572?mp_source=share)  
 
